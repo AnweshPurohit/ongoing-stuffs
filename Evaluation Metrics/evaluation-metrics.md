@@ -4,4 +4,6 @@
 ## Accuracy score
 ![accuracy score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/dc74b018f2880f1ac2adc01f1c1e33439e4081a8/Evaluation%20Metrics/accuracy%20score.png)
 
-##
+## Optimal selection score
+![optimal selection score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/c45e8cc1de483dd00e83abd49b78eca7bd9664d6/Evaluation%20Metrics/optimal%20selection%20score.png)
+

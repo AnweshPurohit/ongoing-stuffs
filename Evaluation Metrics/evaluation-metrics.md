@@ -10,4 +10,8 @@
 ## Optimal cost score
 ![optimal cost score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/cfc3bfbcc761f877ac205b595287459c723b7394/Evaluation%20Metrics/optimal%20cost%20score.png)
 
-![Optimal accuracy score]()
+## Optimal accuracy score
+![Optimal accuracy score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/0d7402a52d92dda456739e4921703d388103e5a9/Evaluation%20Metrics/optimal%20accuracy%20score.png)
+
+## robustness score
+![robustness score]()

@@ -17,4 +17,4 @@
 ![robustness score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/128f2e11a5cd9de28a171ce5663c0cb34f7a3f12/Evaluation%20Metrics/robustness%20score.png)
 
 ## Latency score
-![latency score]()
+![latency score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/9ca0dc3ef714925e51ffd535201368507796a0e2/Evaluation%20Metrics/latency%20score.png)

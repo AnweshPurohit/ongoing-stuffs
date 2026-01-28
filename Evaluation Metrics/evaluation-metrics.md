@@ -14,4 +14,7 @@
 ![Optimal accuracy score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/0d7402a52d92dda456739e4921703d388103e5a9/Evaluation%20Metrics/optimal%20accuracy%20score.png)
 
 ## robustness score
-![robustness score]()
+![robustness score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/128f2e11a5cd9de28a171ce5663c0cb34f7a3f12/Evaluation%20Metrics/robustness%20score.png)
+
+## Latency score
+![latency score]()

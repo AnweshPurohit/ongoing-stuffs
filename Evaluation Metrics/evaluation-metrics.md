@@ -7,3 +7,7 @@
 ## Optimal selection score
 ![optimal selection score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/c45e8cc1de483dd00e83abd49b78eca7bd9664d6/Evaluation%20Metrics/optimal%20selection%20score.png)
 
+## Optimal cost score
+![optimal cost score](https://github.com/AnweshPurohit/ongoing-stuffs/blob/cfc3bfbcc761f877ac205b595287459c723b7394/Evaluation%20Metrics/optimal%20cost%20score.png)
+
+![Optimal accuracy score]()
